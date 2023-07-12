@@ -26,7 +26,7 @@ El programa permite cargar un archivo de calificaciones, calcular la nota final 
 
 1. Clona este repositorio en tu máquina local.
 2. Asegúrate de tener instalado Python 3.x.
-3. Instala las dependencias necesarias ejecutando `pip install -r requirements.txt`.
+3. Instala las dependencias necesarias ejecutando `pip install -r requerimientos.txt`.
 4. Ejecuta el programa usando `python main.py`.
 5. Sigue las instrucciones en la interfaz gráfica para cargar y procesar el archivo de calificaciones.
 
